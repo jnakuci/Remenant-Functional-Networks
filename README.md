@@ -16,12 +16,6 @@ This repository contains the code and data used to reproduce the main figures fr
 ### **Analysis_Figures_X**
 Scripts for running and generating the figures associated with the main text.
 
-### **Data.m**
-This file contains:
-- Functional Connectivity (FC) data from the HCP dataset.
-- Estimated biophysical networks (`sc`, `ec`, `gc`, and `rc`).
-- Data from the LA5c dataset.
-
 ### **create_RFN.m**
 The primary function for creating Remnant Functional Networks (RFN).
 
