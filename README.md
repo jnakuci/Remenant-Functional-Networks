@@ -1,5 +1,4 @@
-Quantifying the influence of biophysical factors in shaping brain communication through remnant functional
-
+Quantifying the Influence of Biophysical Factors in Shaping Brain Communication Through Remnant Functional
 
 This repository contains at the code and data created to the reproduce the main figures in the paper "Quantifying the influence of biophysical factors in shaping brain communication through remnant functional" published in Network Neuroscience.
 
