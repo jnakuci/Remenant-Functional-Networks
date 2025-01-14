@@ -1,4 +1,4 @@
-Quantifying the Influence of Biophysical Factors in Shaping Brain Communication Through Remnant Functional
+**Quantifying the Influence of Biophysical Factors in Shaping Brain Communication Through Remnant Functional**
 
 <div style="text-align: center;">
  <img src="RFN.jpg" alt="Diagram of Process" width="50%">
