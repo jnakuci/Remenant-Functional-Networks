@@ -5,15 +5,34 @@
 </div>
 
 
-<font size="10">This repository contains at the code and data created to the reproduce the main figures in the paper "Quantifying the influence of biophysical factors in shaping brain communication through remnant functional" published in Network Neuroscience. 
+<div style="font-size: 10px;">
 
-Analysis_Figures_X: are scripts for running and generating the figures associated with the main text. 
+This repository contains the code and data used to reproduce the main figures from the paper **"Quantifying the Influence of Biophysical Factors in Shaping Brain Communication Through Remnant Functional Networks"**, published in *Network Neuroscience*.
 
-Data.m: contained the FC from the HCP dataset, estimated biophysical networks (sc, ec, gc, and rc) and data from the LA5c dataset. 
+---
 
-create_RFN.m: is the main function for creating the Remnant Functional Networks (RFN). 
+## **Repository Structure**
 
-my_delta.m: estimates the percent difference between features estimated from fully connected FC network and RFN. 
-percent_overlap.m: calculates the percent of connections in FC that have an underlying biophysical connection.
+### **Analysis_Figures_X**
+Scripts for running and generating the figures associated with the main text.
 
-(un)wrapMat.m: (un)vectorized the brain networks.</font>
+### **Data.m**
+This file contains:
+- Functional Connectivity (FC) data from the HCP dataset.
+- Estimated biophysical networks (`sc`, `ec`, `gc`, and `rc`).
+- Data from the LA5c dataset.
+
+### **create_RFN.m**
+The primary function for creating Remnant Functional Networks (RFN).
+
+### **my_delta.m**
+Function to estimate the percent difference between features derived from the fully connected FC network and RFN.
+
+### **percent_overlap.m**
+Calculates the percentage of connections in the FC network that have an underlying biophysical connection.
+
+### **(un)wrapMat.m**
+Functions to vectorize or unvectorize brain networks.
+
+</div>
+
