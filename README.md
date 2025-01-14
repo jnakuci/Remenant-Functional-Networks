@@ -1,7 +1,7 @@
 <font size="24">**Quantifying the Influence of Biophysical Factors in Shaping Brain Communication Through Remnant Functional**</font>
 
 <div style="text-align: center;">
- <img src="RFN1.jpg" alt="Diagram of Process" width="50%">
+ <img src="RFN1.jpg" alt="Diagram of Process" width="25%">
 </div>
 
 
