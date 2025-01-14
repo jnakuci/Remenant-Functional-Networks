@@ -1,4 +1,4 @@
-<font size="32">**Quantifying the Influence of Biophysical Factors in 
+<font size="38">**Quantifying the Influence of Biophysical Factors in 
 Shaping Brain Communication Through Remnant Functional**</font>
 
 <div style="text-align: center;">
