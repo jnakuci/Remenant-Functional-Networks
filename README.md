@@ -7,7 +7,7 @@
 
 <div style="font-size: 10px;">
 
-This repository contains the code and data used to reproduce the main figures from the paper **"Quantifying the Influence of Biophysical Factors in Shaping Brain Communication Through Remnant Functional Networks"**, published in *Network Neuroscience*.
+This repository contains the code used to reproduce the main figures from the paper **"Quantifying the Influence of Biophysical Factors in Shaping Brain Communication Through Remnant Functional Networks"**, published in *Network Neuroscience*.
 
 ---
 
